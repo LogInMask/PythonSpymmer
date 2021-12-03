@@ -8,5 +8,9 @@ pip install bs4
 git clone https://github.com/LogInMask/PythonSpymmer
 cd PythonSpymmer
 chmod *
-python3 MegaSpymmer
+python3 MegaSpymmer.py or python3 SMSBOMBER.py
+
+That's all. Thanks for using my program 🙂
+Bye!
+
 
